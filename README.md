@@ -1,11 +1,9 @@
 # ***Fundamental SQL and ERD PHW1 Single Table Queries***
-#
-#
+
 ##### This is a repository that documents my journey into database design, Structured Query Language, and Entity Relationship Diagrams (ERD).
-#
-#
-#
+
 ### Contents
+
 - Queries
     - Chapter 2 Exercises from Itzik Ben-Gan's SQL Fundamentals (10)
     - Custom Propositions (5)
